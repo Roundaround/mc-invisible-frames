@@ -10,6 +10,7 @@ allay {
   homepage.set("https://modrinth.com/mod/invisible-frames-mod")
   repository.set("https://github.com/Roundaround/mc-fabric-invisible-frames")
   issues.set("https://github.com/Roundaround/mc-fabric-invisible-frames/issues")
+  logoFile.set("assets/invisibleframes/banner.png")
 
   modrinth {
     projectId.set("invisible-frames")
