@@ -22,10 +22,6 @@ allay {
 
   release {
     versionType.set("release")
-    // sourcesJar stays off: no sources download on Modrinth/CurseForge. The
-    // Maven publication (publishLocal / self-hosted) always includes sources.
-    // Compatible across the whole 26.1 point-release line. Drives the platform
-    // game_versions (26.1, 26.1.1, 26.1.2) + the version title's "26.1-26.1.2".
     minecraftVersions("26.1".."26.1.2")
     changelogDir.set(file("changelogs"))
   }
