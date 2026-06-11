@@ -13,7 +13,7 @@ allay {
   logoFile.set("assets/invisibleframes/banner.png")
 
   modrinth {
-    projectId.set("invisible-frames")
+    projectId.set("invisible-frames-mod")
   }
 
   curseforge {
