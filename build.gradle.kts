@@ -26,5 +26,6 @@ allay {
     // Compatible across the whole 26.1 point-release line. Drives the platform
     // game_versions (26.1, 26.1.1, 26.1.2) + the version title's "26.1-26.1.2".
     minecraftVersions("26.1".."26.1.2")
+    changelogDir.set(file("changelogs"))
   }
 }
