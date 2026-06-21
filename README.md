@@ -1,7 +1,7 @@
 ![Invisible Frames](https://i.imgur.com/8hsV9XT.png)
 
 ![](https://img.shields.io/badge/Loader-Fabric%20|%20Forge%20|%20NeoForge-313e51?style=for-the-badge)
-![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19%20|%201.18.2-313e51?style=for-the-badge)
+![](https://img.shields.io/badge/MC-26.2%20|%2026.1%20|%201.21%20|%201.20%20|%201.19%20|%201.18.2-313e51?style=for-the-badge)
 ![](https://img.shields.io/badge/Side-Server-313e51?style=for-the-badge)
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/invisible-frames-mod?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/invisible-frames-mod)
